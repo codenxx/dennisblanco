@@ -100,7 +100,7 @@ h1, h2, h3, h4, h5, h6, figure {
   bottom: 0;
   left: 0;
   right: 0;
-  background: rgba(255, 144, 0, 0.9);
+  background: rgba(179, 122, 18, 0.9);
 }
 #fh5co-header .display-t,
 .fh5co-cover .display-t {
@@ -800,7 +800,7 @@ h1, h2, h3, h4, h5, h6, figure {
 #fh5co-started .btn {
   height: 54px;
   border: none !important;
-  background: #fff;
+  background: #FF9000;
   color: #FF9000;
   font-size: 16px;
   text-transform: uppercase;

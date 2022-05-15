@@ -13,7 +13,7 @@
 body {
   font-family: "Space Mono", Arial, serif;
   font-weight: 400;
-  font-size: 16px;
+  font-size: 1px;
   line-height: 1.7;
   color: #4d4d4d;
   background: #fff;
@@ -125,7 +125,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-cover .display-tc h1 {
   font-family: "Kaushan Script", cursive;
   margin-bottom: 30px;
-  font-size: 50px;
+  font-size: 52px;
   line-height: 1.3;
   font-weight: 300;
   -webkit-transform: rotate(-5deg);
@@ -164,7 +164,7 @@ h1, h2, h3, h4, h5, h6, figure {
 @media screen and (max-width: 768px) {
   #fh5co-header .display-tc h1,
   .fh5co-cover .display-tc h1 {
-    font-size: 34px;
+    font-size: 36px;
   }
   #fh5co-header .display-tc h1 span:before,
   .fh5co-cover .display-tc h1 span:before {
@@ -183,18 +183,18 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-header .display-tc h2,
 .fh5co-cover .display-tc h2 {
-  font-size: 20px;
+  font-size: 22px;
   line-height: 1.5;
   margin-bottom: 30px;
 }
 #fh5co-header .display-tc h3,
 .fh5co-cover .display-tc h3 {
-  font-size: 16px;
+  font-size: 18px;
 }
 @media screen and (max-width: 768px) {
   #fh5co-header .display-tc h3,
   .fh5co-cover .display-tc h3 {
-    font-size: 14px;
+    font-size: 16px;
   }
 }
 #fh5co-header .display-tc .profile-thumb,
@@ -218,7 +218,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 #fh5co-header .display-tc .fh5co-social-icons li a i,
 .fh5co-cover .display-tc .fh5co-social-icons li a i {
-  font-size: 30px;
+  font-size: 32px;
 }
 
 #fh5co-features {
@@ -253,7 +253,7 @@ h1, h2, h3, h4, h5, h6, figure {
   border-radius: 50%;
 }
 #fh5co-features .feature-left .icon i {
-  font-size: 50px;
+  font-size: 52px;
   display: table-cell;
   vertical-align: middle;
   height: 100px;
@@ -263,7 +263,7 @@ h1, h2, h3, h4, h5, h6, figure {
   width: 100%;
 }
 #fh5co-features .feature-left h3 {
-  font-size: 24px;
+  font-size: 26px;
   font-weight: 400;
   color: #fff;
 }
@@ -370,7 +370,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-right: 10px;
 }
 .fh5co-social-icons li a i {
-  font-size: 20px;
+  font-size: 22px;
 }
 
 #fh5co-about .fh5co-social-icons {
@@ -399,7 +399,7 @@ h1, h2, h3, h4, h5, h6, figure {
   border-radius: 2px;
 }
 #fh5co-about .fh5co-social-icons li a i {
-  font-size: 20px;
+  font-size: 22px;
 }
 #fh5co-about .fh5co-social-icons li a:hover {
   background: #FF9000;
@@ -412,13 +412,13 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 2em;
 }
 .fh5co-heading h2 {
-  font-size: 40px;
+  font-size: 42px;
   margin-bottom: 20px;
   line-height: 1.5;
   color: #000;
 }
 .fh5co-heading p {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.5;
   color: #828282;
 }
@@ -426,7 +426,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: block;
   margin-bottom: 10px;
   text-transform: uppercase;
-  font-size: 12px;
+  font-size: 14px;
   letter-spacing: 2px;
 }
 
@@ -463,7 +463,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .timeline .timeline-heading > div h3 {
   display: inline-block;
   padding: 7px 15px;
-  font-size: 18px;
+  font-size: 20px;
   text-transform: uppercase;
   letter-spacing: 5px;
   font-weight: bold;
@@ -554,7 +554,7 @@ h1, h2, h3, h4, h5, h6, figure {
   display: table-cell;
   vertical-align: middle;
   height: 44px;
-  font-size: 18px;
+  font-size: 20px;
 }
 .timeline > li.timeline-unverted {
   text-align: right;
@@ -587,7 +587,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .company {
   display: block;
   margin-bottom: 20px;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: normal;
   color: #bfbfbf;
 }
@@ -642,7 +642,7 @@ h1, h2, h3, h4, h5, h6, figure {
   margin-bottom: 10px;
 }
 .progress-wrap h3 {
-  font-size: 16px;
+  font-size: 18px;
   display: block;
   margin-bottom: 10px;
   float: left;
@@ -738,7 +738,7 @@ h1, h2, h3, h4, h5, h6, figure {
   transition: 0.3s;
 }
 .work .desc h3 {
-  font-size: 20px;
+  font-size: 22px;
   -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
   transition: transform 0.3s, opacity 0.3s;
   -webkit-transform: translate3d(0, -15px, 0);
@@ -747,7 +747,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .work .desc span {
   display: block;
   color: #999999;
-  font-size: 14px;
+  font-size: 16px;
   -webkit-transition: -webkit-transform 0.3s, opacity 0.3s;
   transition: transform 0.3s, opacity 0.3s;
   -webkit-transform: translate3d(0, 15px, 0);
@@ -802,7 +802,7 @@ h1, h2, h3, h4, h5, h6, figure {
   border: none !important;
   background: #FF9000;
   color: #FF9000;
-  font-size: 16px;
+  font-size: 18px;
   text-transform: uppercase;
   font-weight: 400;
   padding-left: 50px;
@@ -860,7 +860,7 @@ h1, h2, h3, h4, h5, h6, figure {
 .fh5co-blog .blog-text span {
   display: inline-block;
   margin-bottom: 20px;
-  font-size: 18px !important;
+  font-size: 20px !important;
   color: rgba(0, 0, 0, 0.3);
 }
 .fh5co-blog .blog-text .stuff {
@@ -876,7 +876,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 @media screen and (max-width: 768px) {
   .fh5co-blog .blog-text .stuff li {
-    font-size: 14px;
+    font-size: 16px;
   }
 }
 .fh5co-blog .blog-text .stuff li:first-child {
@@ -893,11 +893,11 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-left: 10px;
 }
 .fh5co-blog .blog-text .stuff li i {
-  font-size: 14px;
+  font-size: 16px;
   padding-right: 5px;
 }
 .fh5co-blog .blog-text h3 {
-  font-size: 24px;
+  font-size: 26px;
   margin-bottom: 20px;
   line-height: 1.5;
 }
@@ -1001,7 +1001,7 @@ h1, h2, h3, h4, h5, h6, figure {
   position: absolute;
   top: .3em;
   left: 0;
-  font-size: 22px;
+  font-size: 24px;
   color: rgba(0, 0, 0, 0.3);
 }
 .contact-info li a {
@@ -1016,7 +1016,7 @@ h1, h2, h3, h4, h5, h6, figure {
   box-shadow: none;
   border: none;
   border: 2px solid rgba(0, 0, 0, 0.1);
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 300;
   -webkit-border-radius: 4px;
   -moz-border-radius: 4px;
@@ -1088,7 +1088,7 @@ input[type="text"] {
   margin-right: 4px;
   margin-bottom: 4px;
   font-family: "Space Mono", Arial, serif;
-  font-size: 16px;
+  font-size: 18px;
   font-weight: 400;
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
@@ -1208,7 +1208,7 @@ input[type="text"] {
 .btn-outline {
   background: none;
   border: 2px solid gray;
-  font-size: 16px;
+  font-size: 18px;
   -webkit-transition: 0.3s;
   -o-transition: 0.3s;
   transition: 0.3s;
@@ -1249,7 +1249,7 @@ input[type="text"] {
   background: transparent;
   border: 2px solid rgba(0, 0, 0, 0.1);
   height: 54px;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 300;
 }
 .form-control:active, .form-control:focus {
